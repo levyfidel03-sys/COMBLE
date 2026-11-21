@@ -65,6 +65,8 @@ yarn-error.log
 
 # testing
 /coverage
+*.log
+*.mp4
 
 # Yarn
 .yarn/*
